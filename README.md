@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I am Sachin Thankachan
+<img align="right" width="25%" src="1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
 
 <h3 align="center">Software Developer</h3>
 
@@ -17,8 +18,15 @@
 
 - ⚡ Fun fact **I am a student**
 
-<img align="right" width="25%" src="1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
+
 
 # My tools
-<img align="right" width="25%" src=""/>
 
+<img align="right" width="25%" src="Icons/C++.jpeg"/>
+<img align="right" width="25%" src="Icons/Blender.png"/>
+<img align="right" width="25%" src="Icons/Studio.jpeg"/>
+<img align="right" width="25%" src="Icons/Mit.png"/>
+<img align="right" width="25%" src="Icons/C.png"/>
+<img align="right" width="25%" src="Icons/Shell.jpeg"/>
+<img align="right" width="25%" src="Icons/Python.png"/>
+<img align="right" width="25%" src="Icons/Html.png"/>
