@@ -23,10 +23,10 @@
 # My tools
 
 <img align="right" width="25%" src="Icons/C++.jpeg"/>
-<img align="right" width="25%" src="Icons/Blender.png"/>
-<img align="right" width="25%" src="Icons/Studio.jpeg"/>
+<img align="left" width="25%" src="Icons/Blender.png"/>
+<img align="centre" width="25%" src="Icons/Studio.jpeg"/>
 <img align="right" width="25%" src="Icons/Mit.png"/>
-<img align="right" width="25%" src="Icons/C.png"/>
-<img align="right" width="25%" src="Icons/Shell.jpeg"/>
+<img align="left" width="25%" src="Icons/C.png"/>
+<img align="left" width="25%" src="Icons/896px-Bash_Logo_black_and_white_icon_only.svg.png"/>
+<img align="right" width="100%" src="Icons/Html.png"/>
 <img align="right" width="25%" src="Icons/Python.png"/>
-<img align="right" width="25%" src="Icons/Html.png"/>
