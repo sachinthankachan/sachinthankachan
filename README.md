@@ -8,7 +8,6 @@
 <h3 align="center">3D artist</h3>
 
 
-<img align="right" width="25%" src="images-gifs/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthankachan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthankachan" /> </p>
 
@@ -17,3 +16,5 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/sachinthankachan?tab=repositories)
 
 - ⚡ Fun fact **I am a student**
+
+<img align="right" width="25%" src="1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
