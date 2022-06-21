@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I am Sachin Thankachan
-<img align="right" width="25%" src="1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" /></br>
+<img align="centre" width="25%" src="1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" /></br>
 
 <h3 align="center">Software Developer</h3>
 
