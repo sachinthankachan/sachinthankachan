@@ -11,6 +11,6 @@
 
 <p align="left">
   <a href="https://github.com/sachinthankachan/msdf-atlas-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthankachan&repo=msdf-atlas-studio&theme=tokyonight&show_owner=false" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthankachan&repo=msdf-atlas-studio&theme=merko&show_owner=false" alt="Repo Card" />
   </a>
 </p>
