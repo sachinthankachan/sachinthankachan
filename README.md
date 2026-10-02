@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="left">
   <a href="https://github.com/sachinthankachan/sachinthankachan">
