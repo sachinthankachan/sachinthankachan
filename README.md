@@ -6,3 +6,11 @@
     <img src="https://skillicons.dev/icons?i=godot,c,cpp,py,js,bash,postgres&theme=dark" alt="My Tech Stack" />
   </a>
 </p>
+
+### 🚀 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/sachinthankachan/sachinthankachan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthankachan&repo=sachinthankachan&theme=tokyonight&show_owner=false" alt="Repo Card" />
+  </a>
+</p>
